@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "simple_recipe.dtd">
+<Parameters>
+	<VIDetails>
+		<connectionId>xxxxx</connectionId>
+		<Vlan>xxx</Vlan>
+		<BGPASN>xxxx</BGPASN>
+		<BGPAuthKey>xxxx</BGPAuthKey>
+		<VirtualInterfaceName>xxxx</VirtualInterfaceName>
+	</VIDetails>
+	<ResourceDetails>		
+		<Tag>Testing</Tag>
+		<ImageId>ami-1e70517e</ImageId>
+		<InstanceType>t2.micro</InstanceType>
+		<Groupname>testing</Groupname>
+		<KeyName>string</KeyName>
+		<CidrIp>0.0.0.0/0</CidrIp>
+	</ResourceDetails>
+	<IscsiDetails>
+		<QAddTargetPortal>192.168.60.13</QAddTargetPortal>
+		<qlogintarget>iqn.2010-06.com.purestorage:flasharray.147d13ae268b222</qlogintarget>
+	</IscsiDetails>		
+</Parameters>
+
+
