@@ -1,6 +1,8 @@
 ## Pure Storage Open Connect for Amazon Web Services (AWS) ##
 
-Version 1.0 of the Open Connect for AWS is implemented through a series of functions to help simplify the deployment of AWS Direct Connect with the Pure Storage FlashArray.
+Release: 1.0
+
+The Open Connect for AWS is implemented through a series of functions to help simplify the deployment of AWS Direct Connect with the Pure Storage FlashArray.
 
 Functions:
 1. xml() - Used for reading the .xml configuration file and getting the values.
