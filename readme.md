@@ -1,3 +1,6 @@
+
+### May 2021 - This repository has been archived due to inactivity. It may be unarchived at any time.
+
 ## Pure Storage Open Connect for Amazon Web Services (AWS) ##
 
 Release: 1.0
